@@ -24,7 +24,7 @@ I'm a full stack web developer|PHP web developer. I like to work with PHP, React
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=subathanikaikumaran&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=subathanikaikumaran&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=subathanikaikumaran&theme=tokyonight">
 </p>
 
 
