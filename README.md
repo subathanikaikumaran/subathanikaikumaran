@@ -1,4 +1,7 @@
-### Hi there 👋
+# Subashini Thanikaikumaran(Subho)
+
+[![Linkedin](https://img.shields.io/badge/subho-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/subashini-thanikaikumaran/)]
+(https://www.linkedin.com/in/subashini-thanikaikumaran/)
 
 <!--
 **subathanikaikumaran/subathanikaikumaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
