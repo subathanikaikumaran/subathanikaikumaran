@@ -1,4 +1,4 @@
-# Subashini Thanikaikumaran(Subho)
+# T.Subashini[Subho]
 
 [![Linkedin: Subashini-Thanikaikumaran](https://img.shields.io/badge/Subashini-Thanikaikumaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subashini-thanikaikumaran/)](https://www.linkedin.com/in/subashini-thanikaikumaran/)
 
