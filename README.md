@@ -7,7 +7,7 @@ I'm a full stack web developer|PHP web developer. I like to work with PHP, React
 
 ## Tools and Languages I have worked with
 
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-white?style=for-the-badge&logoColor=red&logo=laravel)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -17,21 +17,29 @@ I'm a full stack web developer|PHP web developer. I like to work with PHP, React
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<!-- ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
-<!-- ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) -->
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-<!-- ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
 ![Postman](https://img.shields.io/badge/postman-FF8300?style=for-the-badge&logoColor=white&logo=postman)
-<!-- ![Firebase](https://img.shields.io/badge/firebase-FFBA01?style=for-the-badge&logoColor=white&logo=firebase) -->
 ![Github](https://img.shields.io/badge/github-8B001B?style=for-the-badge&logoColor=white&logo=github)
 ![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logoColor=white&logo=docker)
+<!-- ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
+<!-- ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) -->
+<!-- ![Firebase](https://img.shields.io/badge/firebase-FFBA01?style=for-the-badge&logoColor=white&logo=firebase) -->
+<!-- ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
 <br>
 
 ### My Github Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=subathanikaikumaran&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=subathanikaikumaran&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
+  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=subathanikaikumaran&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=subathanikaikumaran&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"> -->
+
+
+<a href="https://github.com/subathanikaikumaran">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=subathanikaikumaran&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="51%" />
+</a>
+<a href="https://github.com/subathanikaikumaran">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=subathanikaikumaran&theme=tokyonight&layout=compact&hide_border=true" width="43%" />
+</a>
 </p>
 
 
