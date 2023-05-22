@@ -5,34 +5,43 @@
 ## About me 
 I'm a full stack web developer|PHP web developer. I like to work with PHP, React, NodeJS and Vue.js.
 
+## Tools and Languages I have worked with
 
-## Stack I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-white?style=for-the-badge&logoColor=red&logo=laravel)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vuejs](https://img.shields.io/badge/vuejs-6EA26B?style=for-the-badge&logo=vuejs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!-- ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
+<!-- ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) -->
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
+![Postman](https://img.shields.io/badge/postman-FF8300?style=for-the-badge&logoColor=white&logo=postman)
+<!-- ![Firebase](https://img.shields.io/badge/firebase-FFBA01?style=for-the-badge&logoColor=white&logo=firebase) -->
+![Github](https://img.shields.io/badge/github-8B001B?style=for-the-badge&logoColor=white&logo=github)
+![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logoColor=white&logo=docker)
 <br>
 
 ### My Github Stats
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=subathanikaikumaran&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=subathanikaikumaran&hide=css,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=subathanikaikumaran&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
 </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subathanikaikumaran" alt="Views" /> </p>
 
-### GITHUB TROPHIES
+<!-- ### GITHUB TROPHIES
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=subathanikaikumaran)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=subathanikaikumaran)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=subathanikaikumaran)   -->
 
 
 <!--
