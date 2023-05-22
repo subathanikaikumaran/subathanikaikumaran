@@ -1,7 +1,6 @@
-**# T.Subashini(Subho)
+# Subashini Thanikaikumaran(Subho)
 
 [![Linkedin: Subashini-Thanikaikumaran](https://img.shields.io/badge/Subashini-Thanikaikumaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subashini-thanikaikumaran/)](https://www.linkedin.com/in/subashini-thanikaikumaran/)
-[![Stackoverflow](https://img.shields.io/stackoverflow/badge/Suba-yellow?style=flat-square&link=https://stackoverflow.com/users/10129446/suba/)](https://stackoverflow.com/users/10129446/suba)
 
 ## About me 
 I'm a full stack web developer|PHP web developer. I like to work with PHP, React, NodeJS and Vue.js.
@@ -17,11 +16,9 @@ I'm a full stack web developer|PHP web developer. I like to work with PHP, React
 <code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-
+<br>
 
 ### My Github Stats
-
-<br>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=subathanikaikumaran&show_icons=true&theme=tokyonight&line_height=27">
@@ -52,4 +49,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**
