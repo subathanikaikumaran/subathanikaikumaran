@@ -1,7 +1,7 @@
 # Subashini Thanikaikumaran(Subho)
 
-[![Linkedin: Subashini-Thanikaikumaran](https://img.shields.io/badge/subashini-thanikaikumaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subashini-thanikaikumaran/)](https://www.linkedin.com/in/subashini-thanikaikumaran/)
-[![Stackoverflow](https://img.shields.io/stackoverflow/badge/suba-blue?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10129446/suba/)](https://stackoverflow.com/users/10129446/suba)
+[![Linkedin: Subashini-Thanikaikumaran](https://img.shields.io/badge/Subashini-Thanikaikumaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subashini-thanikaikumaran/)](https://www.linkedin.com/in/subashini-thanikaikumaran/)
+[![Stackoverflow](https://img.shields.io/stackoverflow/badge/Suba-yellow?style=flat-square&link=https://stackoverflow.com/users/10129446/suba/)](https://stackoverflow.com/users/10129446/suba)
 
 ## About me 
 I'm a full stack web developer|PHP web developer. I like to work with PHP, React, NodeJS and Vue.js.
