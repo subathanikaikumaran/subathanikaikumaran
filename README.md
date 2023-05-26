@@ -38,7 +38,7 @@ I'm a full stack web developer|PHP web developer. I like to work with PHP, React
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=subathanikaikumaran&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="51%" />
 </a>
 <a href="https://github.com/subathanikaikumaran">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=subathanikaikumaran&theme=tokyonight&layout=compact&hide=python,css,tcl&hide_border=true" width="43%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=subathanikaikumaran&theme=tokyonight&layout=compact&hide=python,css,tcl,hack&hide_border=true" width="43%" />
 </a>
 </p>
 
