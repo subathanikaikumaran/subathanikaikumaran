@@ -29,7 +29,7 @@ I'm a full stack web developer|PHP web developer. I like to work with PHP, React
 
 ### My Github Stats
 
-<p align = "center">
+<p align = "left">
   <!-- <img src = "https://github-readme-stats.vercel.app/api?username=subathanikaikumaran&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=subathanikaikumaran&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"> -->
 
